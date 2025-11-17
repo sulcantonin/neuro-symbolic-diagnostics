@@ -2,7 +2,7 @@
 
 Authors: [Antonin Sulc](http://sulcantonin.github.io), Thorsten Hellert
 
-This repository contains the source code for the paper "[Neuro-Symbolic Agents with Modal Logic for Autonomous Diagnostics](https://arxiv.org/abs/2509.11943)". It implements a multi-agent system that uses a combination of Large Language Models (LLMs) and formal modal logic to diagnose faults in a simulated particle accelerator environment.
+This repository contains the source code for the paper "[Agentic System with Modal Logic for Autonomous Diagnostics](https://arxiv.org/abs/2509.11943)". It implements a multi-agent system that uses a combination of Large Language Models (LLMs) and formal modal logic to diagnose faults in a simulated particle accelerator environment.
 
 ### Project Overview
 The core of this project is a hybrid neuro-symbolic architecture where:
