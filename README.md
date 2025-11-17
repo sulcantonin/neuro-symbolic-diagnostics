@@ -57,7 +57,7 @@ Citing
 If you use this work, please cite the original paper:
 ```bibtex
 @article{sulc2025neuro,
-  title={Neuro-Symbolic Agents with Modal Logic for Autonomous Diagnostics},
+  title={Agentic System with Modal Logic for Autonomous Diagnostics},
   author={Sulc, Antonin and Hellert, Thorsten},
   journal={arXiv preprint arXiv:2509.11943},
   year={2025}
